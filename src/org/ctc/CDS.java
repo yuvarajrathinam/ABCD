@@ -3,8 +3,10 @@ package org.ctc;
 public class CDS {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		int a=10,c;
+		int b=25;
+	c=a+b;
+	System.out.println(c);
 	}
 
 }
